@@ -1,0 +1,23 @@
+LTspice 26.0.1 for Windows
+Circuit: C:\Users\guill\Desktop\projetpce\PCE\Validation_PMOS.net
+Start Time: Thu Apr  2 19:42:00 2026
+solver = Normal
+Maximum thread count: 16
+tnom = 27
+temp = 27
+method = trap
+Instance "P": Length shorter than recommended for a level 1 MOSFET.
+Instance "P": Width narrower than recommended for a level 1 MOSFET.
+.OP point found by inspection.
+.step VSG=0 
+.step VSG=1 
+.step VSG=2 
+.step VSG=3 
+.step VSG=4 
+.step VSG=5 
+Total elapsed time: 0.137 seconds.
+
+Files loaded:
+C:\Users\guill\Desktop\projetpce\PCE\Validation_PMOS.net
+C:\Users\guill\AppData\Local\LTspice\lib\cmp\standard.mos
+
